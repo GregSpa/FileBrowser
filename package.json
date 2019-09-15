@@ -1,3 +1,6 @@
 {
-    "main": "index.js"
+    "main": "index.js",
+    "devDependencies": {
+        "electron": "^6.0.9"
+    }
 }
