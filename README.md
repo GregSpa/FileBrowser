@@ -3,7 +3,14 @@
 Electron example showing node integration.
 Thanks to node integration you can use node modules in the Renderer (Browser Window).
 
-Short instruction:
+### Short instruction:
 
 Double click - enters folder
+
 Backspace - parent folder
+
+### Run example:
+
+```npm i```
+
+```electron .```
