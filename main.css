@@ -1,0 +1,32 @@
+body {
+    user-select: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+    background: #222;
+    color: #eee;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    padding-right: 3em;
+    cursor: default;
+    height: 2em;
+}
+
+td {
+    padding-left: 0.4em;
+    padding-right: 1em;
+}
+
+tbody tr:hover {
+    background: #444;
+    cursor: pointer;
+}
+
+.size {
+    text-align: right;
+}
